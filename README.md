@@ -17,6 +17,7 @@ Set 1 Q1 Crete 2 vlans
 7. Ping PCs in the same VLAN to verify communication.
 
 ==============================================
+
 Set 1 Q 2 
 1. Create topology: 1 Server + 1 Switch + PCs/Laptops and connect them.
 2. Set Server → Desktop → IP Configuration:
@@ -59,6 +60,7 @@ Set 2 q 1
 8. Check by pinging
 
 ======================================
+
 Set 2 q 2
 1. Create topology: 2 switches + 4 PCs and connect the switches.
 2. Create VLANs 2 (Sales) and 3 (Marketing) on both switches.
