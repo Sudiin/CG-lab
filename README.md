@@ -31,6 +31,7 @@ Set 1 Q 2
 5. On each PC/Laptop: Desktop → IP Configuration → DHCP.
 6. Verify that devices receive IP addresses automatically.
 7. Test using Command Prompt → ipconfig or ping between devices.
+
 ===========================================
 
 Set 2 q 1
