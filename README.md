@@ -18,7 +18,7 @@ Set 1 Q1 Crete 2 vlans
 
 ==============================================
 
-Set 1 Q 2 
+Set 1 Q 2 DHCP server
 1. Create topology: 1 Server + 1 Switch + PCs/Laptops and connect them.
 2. Set Server → Desktop → IP Configuration:
 	IP: 192.168.1.2
@@ -34,7 +34,7 @@ Set 1 Q 2
 
 ===========================================
 
-Set 2 q 1
+Set 2 q 1 RIP config
 1. Create topology: 2 routers, 2 switches, 4 PCs and connect them.
 2. Assign IP addresses as shown in the diagram.
 3. Configure Router 0:
@@ -62,7 +62,7 @@ Set 2 q 1
 
 ======================================
 
-Set 2 q 2
+Set 2 q 2 VLAN trunk
 1. Create topology: 2 switches + 4 PCs and connect the switches.
 2. Create VLANs 2 (Sales) and 3 (Marketing) on both switches.
 3. Assign PC ports to their respective VLANs.
